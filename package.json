@@ -1,6 +1,6 @@
 {
-  "name": "com.omiyagames.template",
-  "displayName": "Omiya Games - Template Unity Package",
+  "name": "com.base.ads-manager",
+  "displayName": "Ads Manager - Unity Package",
   "version": "0.0.2",
   "unity": "2021.3",
   "unityRelease": "28f1",
@@ -30,9 +30,9 @@
       "path": "Samples~/Ads Manager"
     },
     {
-      "displayName": "Example 1",
+      "displayName": "Example",
       "description": "This sample is just an example",
-      "path": "Samples~/Example1"
+      "path": "Samples~/Example"
     }
   ]
 }
