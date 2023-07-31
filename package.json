@@ -1,28 +1,34 @@
 {
   "name": "com.omiyagames.template",
   "displayName": "Omiya Games - Template Unity Package",
-  "version": "1.0.0-pre.1",
-  "unity": "2021.2",
-  "unityRelease": "11f1",
+  "version": "0.0.2",
+  "unity": "2021.3",
+  "unityRelease": "28f1",
   "description": "This is a template package, used as a basis to build a bigger one.",
   "category": "Tool",
   "type": "tool",
-  "license": "MIT",
+  "license": "TRIP",
   "author": {
-    "name": "Taro Omiya",
-    "email": "support@omiyagames.com",
-    "url": "https://www.omiyagames.com"
+    "name": "Do Anh",
+    "email": "andoprof@tripsoft.io",
+    "url": "https://www.tripsoft.io"
   },
   "dependencies": {
     "com.unity.ext.nunit": "1.0.0"
   },
   "keywords": [
-    "Omiya Games",
-    "Scripts",
-    "Template",
+    "Ads Manager",
+    "Google Admob",
+    "Iron Source",
+    "MAX",
     "Tool"
   ],
   "samples": [
+    {
+      "displayName": "Ads Manager",
+      "description": "This sample is just an example",
+      "path": "Samples~/Ads Manager"
+    },
     {
       "displayName": "Example 1",
       "description": "This sample is just an example",
