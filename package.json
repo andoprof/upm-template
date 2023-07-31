@@ -1,7 +1,7 @@
 {
   "name": "com.base.ads-manager",
   "displayName": "Ads Manager",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "unity": "2021.3",
   "unityRelease": "28f1",
   "description": "This is a template package, used as a basis to build a bigger one.",
