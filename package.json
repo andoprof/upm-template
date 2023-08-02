@@ -28,11 +28,6 @@
       "displayName": "Ads Manager",
       "description": "This sample is just an example",
       "path": "Samples~/Ads Manager"
-    },
-    {
-      "displayName": "Example",
-      "description": "This sample is just an example",
-      "path": "Samples~/Example"
     }
   ]
 }
